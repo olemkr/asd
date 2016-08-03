@@ -10,6 +10,7 @@ namespace MyFirstGitSln
     {
         static void Main(string[] args)
         {
+            //Labas
         }
     }
 }
